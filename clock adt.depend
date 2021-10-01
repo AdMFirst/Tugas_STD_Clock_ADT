@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1632821361 source:e:\telkom university\semester 3\struktur data\tugas\clock adt\main.cpp
+	"Clock.cpp"
+
+1632821185 e:\telkom university\semester 3\struktur data\tugas\clock adt\clock.h
+	<iostream>
+
+1632821660 source:e:\telkom university\semester 3\struktur data\tugas\clock adt\clock.cpp
+	"Clock.hpp"
+
+1632821305 e:\telkom university\semester 3\struktur data\tugas\clock adt\clock.cpp
+	"Clock.h"
+
+1632967029 e:\telkom university\semester 3\struktur data\tugas\clock adt\clock.hpp
+	<iostream>
+
